@@ -33,7 +33,7 @@ The project follows object-oriented design patterns and is suitable as a learnin
 
 ### Clone and Open
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/HenriDillo/LibraryMain.git
 cd LibraryMain
 ```
 
@@ -86,7 +86,7 @@ Add screenshots here after running the application:
 
 ## Author
 - **Henri**  
-  Add your GitHub profile link here: `https://github.com/<your-username>`
+  GitHub: `https://github.com/HenriDillo`
 
 ## License
 This project is available under the **MIT License**.  
