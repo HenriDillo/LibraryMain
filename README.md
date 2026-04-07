@@ -78,11 +78,19 @@ LibraryMain/
 ```
 
 ## Screenshots
-Add screenshots here after running the application:
-- Login screen
-- Librarian dashboard
-- Borrower dashboard
-- Borrowed books table
+Add image files to a `screenshots/` folder in this repository, then they will render below:
+
+### Login screen
+![Login screen](screenshots/login.png)
+
+### Librarian dashboard
+![Librarian dashboard](screenshots/librarian-dashboard.png)
+
+### Borrower dashboard
+![Borrower dashboard](screenshots/borrower-dashboard.png)
+
+### Borrowed books table
+![Borrowed books table](screenshots/borrowed-books-table.png)
 
 ## Author
 - **Henri**  
