@@ -9,3 +9,6 @@ Franz, The Fault in Our Stars, 2024-11-29, 2024-12-02
 Franz, Moby Dick, 2024-11-30, 2024-12-03
 Franz, Rick And Morty, 2024-12-02, 2024-12-05
 Franz, One Piece Film Red, 2024-12-02, 2024-12-05
+Henri1, The Hobbit, 2026-04-08, 2026-04-11
+Henri1, Fahrenheit 451, 2026-04-08, 2026-04-11
+Henri1, Brave New World, 2026-04-08, 2026-04-11
