@@ -1,0 +1,25 @@
+To Kill a Mockingbird, Harper Lee, Regular
+Pride and Prejudice, Jane Austen, Bestseller
+The Great Gatsby, F. Scott Fitzgerald, Regular
+Moby Dick, Herman Melville, E-Book
+The Catcher in the Rye, J.D. Salinger, Bestseller
+The Hobbit, J.R.R. Tolkien, Regular
+Fahrenheit 451, Ray Bradbury, E-Book
+Brave New World, Aldous Huxley, Regular
+The Picture of Dorian Gray, Oscar Wilde, Bestseller
+Crime and Punishment, Fyodor Dostoevsky, Regular
+The Grapes of Wrath, John Steinbeck, E-Book
+Wuthering Heights, Emily Brontë, Regular
+Jane Eyre, Charlotte Brontë, Bestseller
+The Lord of the Rings, J.R.R. Tolkien, Regular
+The Chronicles of Narnia, C.S. Lewis, E-Book
+The Alchemist, Paulo Coelho, Regular
+The Kite Runner, Khaled Hosseini, Bestseller
+The Book Thief, Markus Zusak, Regular
+The Fault in Our Stars, John Green, E-Book
+One Piece Vol 1, Eichiro Oda, Bestseller
+One Piece Vol 2, Eichiro Oda, Bestseller
+One Piece Vol 3, Eichiro Oda, E-Book
+Natulog pa Ysvert, Kobe Michael Lopez, Regular
+One Piece Film Red, Eichiro Oda, Regular
+Rick And Morty, Justin Roiland and Dan Harmon, Regular

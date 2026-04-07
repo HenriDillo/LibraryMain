@@ -1,0 +1,8 @@
+Librarian,Henri,123
+Borrower,Henri1,123
+Borrower,henri,123
+Borrower,prince,1234
+Borrower,Henri2,123
+Librarian,Franz,123
+Librarian,Franz,123
+Borrower,Franz,1234
