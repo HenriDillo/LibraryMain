@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Library Management System
 
 ## Project Description
@@ -92,6 +91,3 @@ Add screenshots here after running the application:
 ## License
 This project is available under the **MIT License**.  
 You can add a `LICENSE` file to the repository for full license text.
-=======
-# LibraryMain
->>>>>>> a237e4f1dcaea5ec455a764ce609524c9b71fab1
